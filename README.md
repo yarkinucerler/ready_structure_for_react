@@ -1,1 +1,1 @@
-# ready_structure_for_react
+# Ready Structure For React
